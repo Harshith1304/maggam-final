@@ -1,0 +1,10 @@
+---
+title: "Marshiness of Bad-Lazy Days"
+date: 2026-09-20
+category: "Discipline"
+motif: marsh
+quoteSource: closing
+quotes:
+  - "Sweat more in training, in order to bleed less in war"
+---
+choke out those lazy days- do anything ample even if you have no energies, motivation, mood. Being there, showing up matters more than intent as one bad day can extend to couple of days to weeks, months the day you realize you witness years have passed. so dare to choke em out cause consistency can beat talent, skill, privileges, luck(luck i will dwell upon this later in chapter "A moving man will meet his luck"). So get in action, roll, spend few minutes then boom you are fully into it as I'm right now. There is bliss in the things that we tend to avoid which are not much enjoyable but adds value to our ambitions. so instead on always relying on willingness, discipline, hard on ourself, make those things enjoyable, pleasurable, gives a kick to mind and thrives your goals. Have fun chasing your dreams in order to be showed up even on bad days. Good environments draws good movements that push you to desirable results. create environments that makes you to show up everyday that is devoid of distractions and filled with frictionless, enjoyable ambition-driven activities. discipline is a muscle it gets sored, tired and needs rest. so always relying on discipline is not a suggested thing, instead focus on making environment impossible to astray it. thereby as time passes by it conditions into a habit and gets ingested into subconscious mind where it gets things done with manual willpower injection. so until then we need to do that activity, thing as holistic as possible. consider it as a ritual become devoted to it. it is certain on following this it may and will lead to frictionless activity that needs near zero discipline to perform it. this stage is sealed for elite people who came here by doing that monotonous thing for months, years thereby ages. so embrace that boredom for you to reach this elite stage. pour in action, sweat more in this field in order to bleed less later. as it goes by saying

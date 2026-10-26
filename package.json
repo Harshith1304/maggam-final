@@ -1,0 +1,32 @@
+{
+  "name": "maggam",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Maggam - thoughts woven daily. A personal writing loom by Harshith.",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "live": "next build && next start",
+    "setup": "node scripts/setup.mjs",
+    "carry": "node scripts/carry.mjs",
+    "new": "node scripts/new-thread.mjs",
+    "push": "node scripts/push-remote.mjs",
+    "pull": "node scripts/pull-remote.mjs"
+  },
+  "dependencies": {
+    "@fontsource-variable/bricolage-grotesque": "^5.3.0",
+    "@fontsource-variable/literata": "^5.3.0",
+    "@fontsource-variable/noto-serif-telugu": "^5.3.0",
+    "@fontsource/mrs-saint-delafield": "^5.3.0",
+    "next": "^16.4.0",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
+    "three": "^0.186.1",
+    "yaml": "^2.9.1"
+  },
+  "engines": {
+    "node": ">=20.9.0"
+  }
+}
